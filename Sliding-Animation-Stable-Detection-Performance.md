@@ -11,7 +11,7 @@
 | https://testbook.com/ | x | x  | v | v | 200 |
 | https://www.chefkoch.de/ | x | x | v | v | 450 |
 | https://www.thairath.co.th/home | x | x | x | x | 700 |
-| https://www.max.com/tw/zh | x | x | x | x | 500 |
+| ❌ https://www.max.com/tw/zh | x | x | x | x | 500 |
 | https://www.temu.com/ | v | v | v | v | 400 |
 | https://www.24h.com.vn/kinh-doanh-c161.html | x | x | x | v | 400 |
 | https://www.hdfcbank.com/ | x | x | x | v | 550 |
@@ -40,7 +40,7 @@
 | https://www.scribd.com/ | x | x | x | v | 450 |
 | https://www.scribd.com/docs/Wellness | x | x | x | v | 450 |
 | https://travel.line.me/ | v | v | v | v | 440 |
-| https://kids.lego.com/zh-tw | x | x | v | v | 500 |
+| ❌ https://kids.lego.com/zh-tw | x | x | v | v | 500 |
 | https://kids.lego.com/zh-tw/arcade | x | x | v | v | 450 |
 | https://kids.lego.com/zh-tw/f1 | x | x | v | v | 450 |
 | https://brainly.co.id/ | v | v | v | v | 0 |
@@ -61,11 +61,11 @@
 | https://www.medicalpark.com.tr/ | x | x | x | x | 1100 |
 | https://www.sirogohan.com/ | x | x | v | v | 550 |
 | https://www.lg.com/tw/ | x | x | v | v | 420 |
-| https://www.n-tv.de/ | x | x | x | v | 300 |
+| ❌ https://www.n-tv.de/ | x | x | x | v | 300 |
 | https://www.mediaexpert.pl/ | v | v | v | v | 800 |
 | https://www.t-mobile.com/ | v | v | v | v | 450 |
 | https://www.marriott.com/default.mi | x | x | x | x | 750 |
-| https://www.marriott.com/default.mi | x | x | x | v | 550 |
+| ❌ (Second Carousel) https://www.marriott.com/default.mi | x | x | x | v | 550 |
 | https://www.rtve.es/ | v | v | v | v | 900 |
 | https://www.att.com/ | x | x | x | v | 550 |
 | https://www.atptour.com/en | v | v | v | v | 450 |
