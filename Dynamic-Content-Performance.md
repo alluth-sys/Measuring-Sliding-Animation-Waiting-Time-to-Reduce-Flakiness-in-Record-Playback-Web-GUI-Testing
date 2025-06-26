@@ -1,4 +1,4 @@
-# Website Detection Performance Data
+# Dynamic Detection Performance Data
 
 | Websites | Correct Detection(s) | Wrong Detection(s) | Detection Time (ms) |
 |----------|---------------------|-------------------|-------------------|
